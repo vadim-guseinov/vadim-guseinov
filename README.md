@@ -32,16 +32,16 @@
 
 | Проект | Что это | Стек |
 |---|---|---|
-| [QRKot](https://github.com/JuliaDJ1/QRkot-spreadsheets) | Асинхронный API благотворительного фонда, 87/87 тестов | FastAPI, SQLAlchemy 2.0, Alembic, JWT |
-| [Foodgram](https://github.com/JuliaDJ1/foodgram) | Сервис рецептов, 4 Docker-контейнера, деплой на сервер | Django, DRF, PostgreSQL, Nginx |
-| [Kittygram](https://github.com/JuliaDJ1/kittygram_final) | CI/CD: тесты → Docker Hub → автодеплой → Telegram | Docker, GitHub Actions |
-| [Yatube API](https://github.com/JuliaDJ1/api-final-yatube) | REST API соцсети | DRF, JWT |
-| [PEP Parser](https://github.com/JuliaDJ1/scrapy_parser_pep) | Парсер PEP со статистикой в CSV | Scrapy |
+| [QRKot](https://github.com/vadim-guseinov/QRkot-spreadsheets) | Асинхронный API благотворительного фонда, 87/87 тестов | FastAPI, SQLAlchemy 2.0, Alembic, JWT |
+| [Foodgram](https://github.com/vadim-guseinov/foodgram) | Сервис рецептов, 4 Docker-контейнера, деплой на сервер | Django, DRF, PostgreSQL, Nginx |
+| [Kittygram](https://github.com/vadim-guseinov/kittygram_final) | CI/CD: тесты → Docker Hub → автодеплой → Telegram | Docker, GitHub Actions |
+| [Yatube API](https://github.com/vadim-guseinov/api-final-yatube) | REST API соцсети | DRF, JWT |
+| [PEP Parser](https://github.com/vadim-guseinov/scrapy_parser_pep) | Парсер PEP со статистикой в CSV | Scrapy |
 
-Ещё: [YaCut](https://github.com/JuliaDJ1/async-yacut) — сокращатель ссылок с загрузкой файлов на Яндекс Диск (Flask, aiohttp) ·
-[Homework Bot](https://github.com/JuliaDJ1/homework-bot) — Telegram-бот на внешнем API ·
-[Blogicum](https://github.com/JuliaDJ1/django-sprint4) — блог-платформа на Django ·
-[Django Testing](https://github.com/JuliaDJ1/django-testing) — 35 тестов на pytest и unittest.
+Ещё: [YaCut](https://github.com/vadim-guseinov/async-yacut) — сокращатель ссылок с загрузкой файлов на Яндекс Диск (Flask, aiohttp) ·
+[Homework Bot](https://github.com/vadim-guseinov/homework-bot) — Telegram-бот на внешнем API ·
+[Blogicum](https://github.com/vadim-guseinov/django-sprint4) — блог-платформа на Django ·
+[Django Testing](https://github.com/vadim-guseinov/django-testing) — 35 тестов на pytest и unittest.
 
 ## 📚 Изучаю сейчас
 
