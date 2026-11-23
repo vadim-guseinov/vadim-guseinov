@@ -29,9 +29,16 @@
     <text x="66" y="166" font-size="28" font-weight="600" fill="url(#accent)">Python-разработчик · Backend</text>
     <text x="66" y="212" font-size="20" fill="#c9d6ea">FastAPI · Django REST Framework · PostgreSQL · Docker · CI/CD</text>
     <g>
-      <rect x="66" y="240" width="330" height="38" rx="19" fill="#7ee0c3" fill-opacity="0.14" stroke="#7ee0c3" stroke-opacity="0.55"/>
+      <rect x="66" y="240" width="372" height="38" rx="19" fill="#7ee0c3" fill-opacity="0.14" stroke="#7ee0c3" stroke-opacity="0.55"/>
       <circle cx="90" cy="259" r="6" fill="#7ee0c3"/>
-      <text x="106" y="266" font-size="18" font-weight="600" fill="#d8fff3">Открыт к предложениям · удалённо</text>
+      <text x="106" y="266" font-size="18" font-weight="600" fill="#d8fff3" textLength="310" lengthAdjust="spacingAndGlyphs">Открыт к предложениям · удалённо</text>
+    </g>
+    <g>
+      <rect x="452" y="240" width="270" height="38" rx="19" fill="#b9a3ff" fill-opacity="0.14" stroke="#b9a3ff" stroke-opacity="0.55"/>
+      <path d="M474 252h16a6 6 0 0 1 6 6v3a6 6 0 0 1-6 6h-16a6 6 0 0 1-6-6v-3a6 6 0 0 1 6-6z" fill="none" stroke="#cdbdff" stroke-width="2"/>
+      <path d="M476 259.5h6M479 256.5v6" stroke="#cdbdff" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="489" cy="258" r="1.6" fill="#cdbdff"/><circle cx="492" cy="261" r="1.6" fill="#cdbdff"/>
+      <text x="506" y="266" font-size="18" font-weight="600" fill="#ece6ff" textLength="194" lengthAdjust="spacingAndGlyphs">VJK STUDIO · геймдев</text>
     </g>
   </g>
 

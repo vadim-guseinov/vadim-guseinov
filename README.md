@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/eviliing"><img src="https://img.shields.io/badge/Telegram-@eviliing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:guseinov.vadimka@yandex.ru"><img src="https://img.shields.io/badge/Email-guseinov.vadimka@yandex.ru-FC3F1D?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="mailto:guseinov.vadimka@yandex.ru"><img src="https://img.shields.io/badge/Email-guseinov.vadimka@yandex.ru-FC3F1D?style=for-the-badge" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open_to_work-remote,_full--time-2ea44f?style=for-the-badge" alt="Открыт к предложениям">
 </p>
 
@@ -70,6 +70,10 @@
 | 🔎 [PEP Parser BS4](https://github.com/vadim-guseinov/bs4_parser_pep) | CLI-парсер документации Python | BeautifulSoup, requests-cache |
 
 </details>
+
+## 🎮 VJK STUDIO
+
+Основатель инди-студии **VJK STUDIO**. Разрабатываю собственную глобальную стратегию на реальной карте мира: система кликабельных провинций, политический и рельефный режимы карты, игровое время. Проект в активной разработке.
 
 ## 📚 Изучаю сейчас
 
